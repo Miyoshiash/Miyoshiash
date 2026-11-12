@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a 22-year-old backend and server-side developer specializing in Node.js and server management. I have experience running production-grade servers, optimizing backend performance, and building scalable infrastructure.
+I'm a 23-year-old backend and server-side developer specializing in Node.js and server management. I have experience running production-grade servers, optimizing backend performance, and building scalable infrastructure.
 
 - 🔭 I’m currently managing and developing server nodes and backend APIs
 - 🌱 Continuously improving skills in distributed systems and cloud-native architecture
@@ -20,15 +20,20 @@ I'm a 22-year-old backend and server-side developer specializing in Node.js and 
 
 ## 💻 Skills & Technologies
 
-| Technology         | Level       | Description                             |
-|--------------------|-------------|---------------------------------------|
-| Node.js            | Intermediate| Backend development and scripting     |
-| Express.js         | Intermediate| Building RESTful APIs                  |
-| Docker             | Intermediate| Containerization and deployment       |
-| Linux Server       | Intermediate| Server setup, configuration, and ops  |
-| Bash scripting     | Intermediate| Automation and system scripts          |
-| AWS / Cloudflare   | Intermediate| Cloud hosting and DNS management       |
-| MongoDB / Redis    | Intermediate| Databases and caching                  |
+| Technology | Level | Description |
+|---|---|---|
+| Node.js | Intermediate | Backend development and scripting |
+| Express.js | Intermediate | Building RESTful APIs |
+| JavaScript | Intermediate | Backend and application development |
+| PHP | Intermediate | Server-side development |
+| Java | Intermediate | Application and plugin development |
+| Kotlin | Intermediate | Modern application development |
+| HTML | Intermediate | Web structure and markup |
+| Docker | Intermediate | Containerization and deployment |
+| Linux Server | Intermediate | Server setup, configuration, and ops |
+| Bash scripting | Intermediate | Automation and system scripts |
+| AWS / Cloudflare | Intermediate | Cloud hosting and DNS management |
+| MongoDB / Redis | Intermediate | Databases and caching |
 
 ---
 
@@ -44,9 +49,17 @@ I'm a 22-year-old backend and server-side developer specializing in Node.js and 
 
 ## 🌐 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrAshshiddiq)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MrAshshiddiq)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/maulanarahmanashshiddiq)
+<p align="left">
+  <a href="https://github.com/MrAshshiddiq">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/MrAshshiddiq">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/maulanarahmanashshiddiq">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -57,6 +70,9 @@ I'm a 22-year-old backend and server-side developer specializing in Node.js and 
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -68,7 +84,11 @@ I'm a 22-year-old backend and server-side developer specializing in Node.js and 
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrAshshiddiq&show_icons=true&theme=dark" alt="GitHub Stats" />
+
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=MrAshshiddiq&show_icons=true&theme=dark" alt="GitHub Stats" />
+
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MrAshshiddiq&layout=compact&theme=dark&langs_count=8" alt="Top Languages" />
+
 </div>
 
 ---
