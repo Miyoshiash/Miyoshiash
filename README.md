@@ -22,18 +22,18 @@ I'm a 23-year-old backend and server-side developer specializing in Node.js and 
 
 | Technology | Level | Description |
 |---|---|---|
-| Node.js | Intermediate | Backend development and scripting |
-| Express.js | Intermediate | Building RESTful APIs |
+| Node.js | Novice | Backend development and scripting |
+| Express.js | Novice | Building RESTful APIs |
 | JavaScript | Intermediate | Backend and application development |
 | PHP | Intermediate | Server-side development |
 | Java | Intermediate | Application and plugin development |
-| Kotlin | Intermediate | Modern application development |
+| Kotlin | Novice | Modern application development |
 | HTML | Intermediate | Web structure and markup |
 | Docker | Intermediate | Containerization and deployment |
 | Linux Server | Intermediate | Server setup, configuration, and ops |
 | Bash scripting | Intermediate | Automation and system scripts |
-| AWS / Cloudflare | Intermediate | Cloud hosting and DNS management |
-| MongoDB / Redis | Intermediate | Databases and caching |
+| AWS / Cloudflare | Novice | Cloud hosting and DNS management |
+| MongoDB / Redis | Novice | Databases and caching |
 
 ---
 
@@ -81,15 +81,17 @@ I'm a 23-year-old backend and server-side developer specializing in Node.js and 
 
 ---
 
+
 ## 📈 GitHub Stats
 
 <div align="center">
 
-  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=MrAshshiddiq&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img width="49%" src="./profile/stats.svg" alt="GitHub Stats" />
 
-  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MrAshshiddiq&layout=compact&theme=dark&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="./profile/top-langs.svg" alt="Top Languages" />
 
 </div>
+
 
 ---
 
